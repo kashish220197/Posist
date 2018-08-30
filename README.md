@@ -1,5 +1,8 @@
 # Posist
-posist round 2 code(see redme)
+POSist Round 2 
+
+
+
 It's a kind of block chain program which is quite hard.
 All the structure that has been made as follows:-
 1.)Timestamp
